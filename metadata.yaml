@@ -1,0 +1,25 @@
+_repo: Les-sports---la-mode_19862
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meillac, Camille
+    gutenberg_agent_id: '8927'
+    url: http://www.gutenberg.org/2009/agents/8927
+description: ''
+gutenberg_bookshelf: FR Sports et loisirs
+gutenberg_issued: '2006-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19862'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sports'
+- !lcc 'GV'
+title: Les sports à la mode
+url: http://www.gutenberg.org/ebooks/19862
